@@ -1,23 +1,5 @@
 {
-  "name": "projects2",
-  "version": "1.0.0",
-  "description": "A package for my README-generator",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "README-generator"
-  },
-  "keywords": [
-    "README",
-    "generator"
-  ],
-  "author": "Eryca Spence <xoerycaxo@gmail.com>",
-  "license": "ISC",
   "dependencies": {
-    "index.js": "^0.0.3",
     "inquirer": "^8.2.4"
   }
 }
