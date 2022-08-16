@@ -1,12 +1,12 @@
 # README-generator
 
 ## Table of Contents
-*Description
-*License
-*Usage
-*Contributions
-*Testing
-*Contact Information
+* Description
+* License
+* Usage
+* Contributions
+* Testing
+* Contact Information
 
 ## Description
 
