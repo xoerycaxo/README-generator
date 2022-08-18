@@ -1,25 +1,27 @@
 # README-generator
+  ## Table of Contents
+  - [Description](#description)
+  - [License](#license)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution](#contribution)
+  - [Testing](#testing)
+  - [Contact Information](#contact-information)
 
-## Table of Contents
-- [Description](#description)
-- [License](#license)
-- [Usage](#usage)
-- [Contributions](#contributions)
-- [Testing](#testing)
-- [Contact Information](#contact-information)
+  ## Description
+  Generator for a README file
+  ## License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ## Installation
+  Threw Github
+  ## Usage
+  VS Code Terminal
+  ## Contribution
+  N/A
+  ## Testing
+  Test
+  ## Contact Information
+  - Github: [xoerycaxo](https://github.com/xoerycaxo)
+  - Email: [xoerycaxo@gmail.com](mailto:user@example.com)
 
-## Description
-A generator that creates a high quality README file to save time.
-
-## Licencse
-[![License logo](https://img.shields.io/apm/l/readme)](https://opensource.org/licenses/MIT)
-## Usage
-VS Code terminal
-
-## Contributions
-
-## Testing
-
-
-## Contact Information
-Email me at xoerycaxo@gmail.com
+  

@@ -24,6 +24,7 @@ function generateMarkdown(data) {
   - [Contribution](#contribution)
   - [Testing](#testing)
   - [Contact Information](#contact-information)
+
   ## Description
   ${data.Description}
   ## License
@@ -39,7 +40,8 @@ function generateMarkdown(data) {
   ## Contact Information
   - Github: [${data.Github}](https://github.com/${data.Github})
   - Email: [${data.Email}](mailto:user@example.com)
-`;
-}
 
-module.exports = generateMarkdown;
+  `;
+ }
+
+ module.exports = generateMarkdown;
